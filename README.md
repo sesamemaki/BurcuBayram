@@ -5,6 +5,10 @@
 After I graduated from Biology and worked in the clinical research industry for 6 years, I decided to change the industry and started learning React. After completing the trainings in Udemy and Freecodecamp (certified), I tried to rewrite a web application developed by non-modern technologies with React.
 Now I am in a React Bootcamp.
 
+<div>
+📫 How to reach me: me@burcuyilmaz.com
+</div>
+
 <!--
 **sesamemaki/sesamemaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,8 +37,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-📫 How to reach me: me@burcuyilmaz.com
 </div>
