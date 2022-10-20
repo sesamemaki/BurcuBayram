@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-After I graduated from Biology and worked in the clinical research industry for 6 years, I decided to change the industry and started learning React. After completing the trainings in Udemy and Freecodecamp (certified), I tried to rewrite a web application developed by non-modern technologies with React.
+After I graduated from Biology and worked in the clinical research industry for 6 years. I decided to change my path and started learning React. After completing the trainings in Udemy and Freecodecamp (certified), I tried to rewrite a web application developed by non-modern technologies with React.
 Now I am in a React Bootcamp.
 
 <div>
