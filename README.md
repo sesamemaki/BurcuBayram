@@ -1,4 +1,4 @@
-# BurcuBayram
+# Burcu Bayram
 
 ### Hi there 👋
 
