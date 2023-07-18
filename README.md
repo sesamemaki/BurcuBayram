@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-After I graduated from Biology and worked in the clinical research industry for 6 years. I decided to change my path and started learning React. After completing the trainings in Udemy and Freecodecamp (certified), I tried to rewrite a web application developed by non-modern technologies with React.
-Now I am in a React Bootcamp.
+After I graduated from Biology and worked in the clinical research industry for 6 years. I decided to change my path and started learning React. After completing trainings in Udemy, Freecodecamp and React Bootcamps, I tried to rewrite a web application developed by non-modern technologies with React.
+Now I am interested in getting professional in frontend development.
 
 <div>
 📫 How to reach me: me@burcuyilmaz.com
