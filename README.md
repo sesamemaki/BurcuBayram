@@ -6,6 +6,7 @@ After I graduated from Biology and worked in the clinical research industry for 
 Now I am interested in getting professional in frontend development.
 
 <div>
+⚡Portfolio: burcuyilmaz.com
 📫 How to reach me: me@burcuyilmaz.com
 </div>
 
