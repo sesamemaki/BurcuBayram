@@ -7,6 +7,8 @@ Now I am interested in getting professional in frontend development.
 
 <div>
 ⚡Portfolio: burcuyilmaz.com
+</div>
+<div>
 📫 How to reach me: me@burcuyilmaz.com
 </div>
 
